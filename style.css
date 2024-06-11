@@ -1,0 +1,17 @@
+body{background-color: cornflowerblue;}
+h1{color: darkslategray;}
+
+.a1{color: teal;}
+.a2{color: darkcyan;}
+.a3{color: steelblue;}
+.a4{color: lightblue;}
+
+div {text-align: center;}
+
+.a1{border-width: 5px;
+border-color: darkslategrey;
+border-style: dashed;
+margin-left: 10%;
+margin-right: 10%;
+padding-bottom: 5%;
+padding-top: 4%;}
